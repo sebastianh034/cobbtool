@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# per-unit backups: device serials + EEPROM snapshots, keep local
+units/
